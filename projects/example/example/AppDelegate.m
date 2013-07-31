@@ -28,6 +28,7 @@
 //	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 //	IN THE SOFTWARE.
 //
+//forked by kira ---2013.7.31
 
 #import "AppDelegate.h"
 #import "AppBoard_iPhone.h"
